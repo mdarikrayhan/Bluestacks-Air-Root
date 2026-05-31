@@ -12,22 +12,24 @@
 - 5.21.730.7536
 - 5.21.735.7518
 - 5.21.745.7536
+- 5.21.770.7524
 
 ![Screenshot](/images/bluestacks-air-root-magisk.png)
 
 ## Requirements
 
-- [BlueStacks Air](https://www.bluestacks.com/mac)
-- [Kitsune Magisk](https://github.com/1q23lyc45/KitsuneMagisk/releases)  
-  Tested version: v27.2-kitsune-4
+- [BlueStacks Air](https://www.bluestacks.com/mac)  
+  Direct download (bundled in this repo, Git LFS): [BlueStacksInstaller 5.21.770.7524](https://github.com/mdarikrayhan/Bluestacks-Air-Root/raw/main/BlueStacksInstaller_5.21.770.7524_37bb8a3d74002edaa7c7084b8a7648f6.pkg)
+- Kitsune Magisk (tested version: v27.2-kitsune-4)  
+  Direct download (bundled in this repo): [magisk.apk](https://github.com/mdarikrayhan/Bluestacks-Air-Root/raw/main/magisk.apk)
 
 ## Rooting
 
-- Install BlueStacks Air
+- Install BlueStacks Air ([download bundled installer 5.21.770.7524](https://github.com/mdarikrayhan/Bluestacks-Air-Root/raw/main/BlueStacksInstaller_5.21.770.7524_37bb8a3d74002edaa7c7084b8a7648f6.pkg))
 - ‼️ **REQUIRED** ‼️ Open BlueStacks Air for the first time
 - Close BlueStacks Air
 - Download this repo and extract it
-- Copy the downloaded Kitsune Mask apk to the project folder, and rename it to `magisk.apk`
+- The `magisk.apk` (Kitsune Mask) is already included in the repo. To use a different version, replace `magisk.apk` in the project folder
 - Open **Terminal.app** or **iTerm.app** and navigate to the project folder
 
   ```bash
@@ -84,7 +86,3 @@
   ```
 
 - Done
-
-### Buy me a coffee
-
-[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/hanreev)
